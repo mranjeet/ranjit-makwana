@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWo3MmYydjE3bm95Y3NnMjFyaGZtZjIzd2FzMTJoMHY2b21zZWM1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Kps6AF12MbD67LfRp/giphy.gif">
 
 - 🔭 I’m currently working as a **Sr. Flutter Developer** at **OTFCoder Pvt Ltd**.
-- 📱 **Technically Sophisticated Professional** with **4+ years** of experience in Mobile App Development.
+- 📱 **Technically Sophisticated Professional** with **5+ years** of experience in Mobile App Development.
 - 🛠️ Deep expertise in **Flutter, BLOC, Provider**, and **Native Android (Java/Kotlin)**.
 - 🎯 Focused on designing reusable code modules and translating business requirements into technical solutions.
 - 🎓 **Education**: B.Tech in Computer Engineering from C.U. Shah College of Engineering.
